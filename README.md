@@ -32,6 +32,18 @@ Additionally, I have made contributions to other projects:
 - 🛠️ [Dagger .NET SDK - Roslyn Generator](https://github.com/wingyplus/dagger-dotnet-sdk/pull/6)
 - 🔧 [NBuilder - Added NextString Feature and Code Cleanup](https://github.com/nbuilder/nbuilder/commits?author=pjmagee)
 
+### Heroes of the Storm Automated Replay Spectator
+
+I developed an automated replay spectator project for Heroes of the Storm, which streamed on Twitch 24/7 with Twitch Chat integration. This project utilized several technologies to ensure seamless operation and interaction:
+
+- **AWS S3** for storing and retrieving replay files
+- **Twitch API** for integrating chat functionalities and stream control
+- **Heroes Profile API** for fetching game statistics and player data
+- **Native Windows OCR** for coordinating hero selection during streams
+
+Code can be found at [Heroes Replay](https://github.com/HeroesReplay)
+
+This project was streamed on the SaltySadism Twitch channel, providing an interactive and continuous viewing experience for the community.
 
 ## Connect with Me
 
