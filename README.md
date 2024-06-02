@@ -6,7 +6,7 @@ I'm a Software Engineering Lead at LexisNexis Risk Solutions, based in London, U
 
 - 🧑‍💼 **Profession**: Software Engineering Lead
 - 🌍 **Location**: South London, UK
-- 🐱 **Pet**: I have a 14-year-old Bengal cat
+- 🐱 **Pet**: I have a 15-year-old Bengal cat
 - 🎮 **Hobbies**: Gaming, Twitch, Programming, and watching Podcast shows such as the Joe Rogan Experience (JRE)
 - 📚 **Interests**: Philosophy, Star Wars, Sci-fi, Computers, Programming, Nature, Stoicism
 
