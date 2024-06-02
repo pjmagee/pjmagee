@@ -17,7 +17,7 @@ I'm a Software Engineering Lead at LexisNexis Risk Solutions, based in London, U
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/patrick-magee-76216959))
+- [LinkedIn](https://www.linkedin.com/in/patrick-magee-76216959)
 - [X](https://twitter.com/PatrickMageez)
 - [Email](mailto:patrick.magee@outlook.com)
 
