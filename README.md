@@ -23,7 +23,7 @@ I'm a Software Engineering Lead at LexisNexis Risk Solutions, based in London, U
 
 ## Featured Work
 
-I am proud to have contributed to the development of the ECL Syntax in Visual Studio Code with hotkey extensions and snippets. My efforts were highlighted in an article by HPCC Systems:
+I am proud to have contributed to the development of the [HPCC Systems](https://github.com/hpcc-systems) ECL Syntax in Visual Studio Code with hotkey extensions and snippets. My efforts were highlighted in an article by HPCC Systems:
 
 - 📄 [ECL Extension for VS Code: New Features Available Now](https://hpccsystems.com/resources/ecl-extension-for-vs-code-new-features-available-now/)
 
