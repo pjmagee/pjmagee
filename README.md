@@ -31,6 +31,7 @@ Additionally, I have made contributions to other projects:
 
 - 🛠️ [Dagger .NET SDK - Roslyn Generator](https://github.com/wingyplus/dagger-dotnet-sdk/pull/6)
 - 🔧 [NBuilder - Added NextString Feature and Code Cleanup](https://github.com/nbuilder/nbuilder/commits?author=pjmagee)
+- 🔥 [Heroes Profile .StormReplay Uploader](https://github.com/Heroes-Profile/HeroesProfile.Uploader/commits?author=pjmagee)
 
 ### Heroes of the Storm Automated Replay Spectator
 
