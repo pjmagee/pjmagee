@@ -36,6 +36,7 @@ Additionally, I have made contributions to other projects:
 - [NBuilder - Added NextString Feature and Code Cleanup](https://github.com/nbuilder/nbuilder/commits?author=pjmagee)
 - [Heroes Profile .StormReplay Uploader](https://github.com/Heroes-Profile/HeroesProfile.Uploader/commits?author=pjmagee)
 - [Microsoft Ajax - TypeScript NPM Module](https://www.npmjs.com/package/@types/microsoft-ajax)
+- [SWTOR Caster - A tool used by content creators in the MMORPG Community for Star Wars: The Old Republic MMO](https://github.com/pjmagee/SWTOR.Caster)
 
 ### Heroes of the Storm Automated Replay Spectator
 
