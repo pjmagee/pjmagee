@@ -12,8 +12,9 @@ I'm a Software Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexi
 
 ## Skills & Technologies
 
-- 💻 **Programming Languages**: C#, .NET
-- 🔧 **Technologies & Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Spotify, Windows Terminal, Loop, Dagger
+- 💻 **Programming**: C#, Python, Go
+- 🔧 **Technologies & Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop
+- 📃 **Developer Tech Radar**: Check out my personalised [Tech Radar](https://gist.github.com/pjmagee/9c814176f603c4660f9046e5a22fa71e)
 
 ## Connect with Me
 
