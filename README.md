@@ -13,12 +13,6 @@ I'm a Software Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexi
 - 🔧 **Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop
 - 📃 **Tech Radar**: https://gist.github.com/pjmagee/9c814176f603c4660f9046e5a22fa71e
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/patrick-magee-76216959)
-- [X](https://twitter.com/PatrickMageez)
-- [Email](mailto:patrick.magee@outlook.com)
-
 ## Featured Work
 
 I am proud to have contributed to the development of the [HPCC Systems](https://github.com/hpcc-systems) ECL Syntax in Visual Studio Code with hotkey extensions and snippets. [HPCC](https://risk.lexisnexis.com/our-technology/hpcc-systems) is a LexisNexis Risk®️ technology used in LexisNexis Data Centers for High Performance Computing Clusters. 
