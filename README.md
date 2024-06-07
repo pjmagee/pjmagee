@@ -1,20 +1,17 @@
 # Hello, I'm Patrick👋
 
-I'm a Software Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) working in Data Services for our [I.C.I.S](https://www.icis.com/) brand covering the commodities and chemicals industry. With a passion for technology and a strong background in software development, I thrive in creating innovative solutions and leading teams towards success.
+I'm a Software Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) working in Data Services for our [I.C.I.S](https://www.icis.com/) brand covering the commodities and chemicals industry. With a passion for technology and a background in software development, I thrive in creating innovative solutions and leading teams towards success.
 
 ## About Me
 
 - 🧑‍💼 **Profession**: Software Engineering Lead
-- 🌍 **Location**: South London, UK
-- 🐱 **Pet**: I have a 15-year-old Bengal cat
-- 🎮 **Hobbies**: Gaming, Twitch, Programming, and watching Podcast shows such as the Joe Rogan Experience (JRE)
-- 📚 **Interests**: Philosophy, Star Wars, Sci-fi, Computers, Programming, Nature, Stoicism
-
-## Skills & Technologies
-
+- 🌍 **Location**: London, UK
+- 🐱 **Pet**: 15-year-old Bengal cat
+- 🎮 **Hobbies**: Gaming, Programming, and watching Podcast shows
+- 📚 **Interests**: Star Wars, Sci-fi, Computers, Nature
 - 💻 **Programming**: C#, Python, Go
-- 🔧 **Technologies & Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop
-- 📃 **Developer Tech Radar**: Check out my personalised [Tech Radar](https://gist.github.com/pjmagee/9c814176f603c4660f9046e5a22fa71e)
+- 🔧 **Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop
+- 📃 **Tech Radar**: https://gist.github.com/pjmagee/9c814176f603c4660f9046e5a22fa71e
 
 ## Connect with Me
 
