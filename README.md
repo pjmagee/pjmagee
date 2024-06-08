@@ -6,7 +6,7 @@ I'm a Software Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexi
 
 - 🧑‍💼 **Profession**: Software Engineering Lead
 - 🌍 **Location**: London, UK
-- 🐱 **Pet**: 15-year-old Bengal cat
+- 🐱 **Pet**: Bengal cat
 - 🎮 **Hobbies**: Gaming, Programming, and watching Podcast shows
 - 📚 **Interests**: Star Wars, Sci-fi, Computers, Nature
 - 💻 **Programming**: C#, Python, Go
