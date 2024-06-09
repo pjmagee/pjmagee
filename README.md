@@ -31,6 +31,10 @@ Additionally, I have made contributions to other projects:
 - [Squidex - Headless CMS](https://github.com/Squidex/squidex/commits?author=pjmagee)
 - [Finding and Reporting how to fix a Critical Vulnerability in EAs SWTOR Launcher.. The reward? $10 Tshirt 💀](https://github.com/pjmagee/pjmagee.github.io/blob/main/input/img/Thanks%20EA.jpeg)
 
+## Game Helpers
+
+- [Dota2 Timer Tracker - Avalonia UI/.NET](https://github.com/pjmagee/dota2-helper)
+- [SWTOR Caster - Content creator tool for SWTOR MMORPG](https://github.com/pjmagee/SWTOR.Caster)
 
 ### Heroes of the Storm Automated Replay Spectator
 
