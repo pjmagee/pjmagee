@@ -15,7 +15,7 @@ I'm a Software Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexi
 
 ## Featured Work
 
-I am proud to have contributed to the development of the [HPCC Systems](https://github.com/hpcc-systems) ECL Syntax in Visual Studio Code with hotkey extensions and snippets. [HPCC](https://risk.lexisnexis.com/our-technology/hpcc-systems) is a LexisNexis Risk®️ technology used in LexisNexis Data Centers for High Performance Computing Clusters. 
+I am proud to have contributed to the development of the [HPCC Systems](https://github.com/hpcc-systems) ECL Syntax in Visual Studio Code with Syntax tokenizer, hotkey extensions and snippets. [HPCC](https://risk.lexisnexis.com/our-technology/hpcc-systems) is a LexisNexis Risk®️ technology used in LexisNexis Data Centers for High Performance Computing Clusters. 
 
 My efforts were highlighted in an article by HPCC Systems:
 
