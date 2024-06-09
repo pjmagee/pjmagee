@@ -28,7 +28,7 @@ Additionally, I have made contributions to other projects:
 - [Heroes Profile .StormReplay Uploader](https://github.com/Heroes-Profile/HeroesProfile.Uploader/commits?author=pjmagee)
 - [Microsoft Ajax - TypeScript NPM Module](https://www.npmjs.com/package/@types/microsoft-ajax)
 - [SWTOR Caster - A tool used by content creators in the MMORPG Community for Star Wars: The Old Republic MMO](https://github.com/pjmagee/SWTOR.Caster)
-- EA's Bug Bounty Program - Finding and reporting a critical vulnerability
+- [Finding and Reporting how to fix a Critical Vulnerability in EAs SWTOR Launcher.. The reward? $10 Tshirt 💀](https://github.com/pjmagee/pjmagee.github.io/blob/main/input/img/Thanks%20EA.jpeg)
 
 
 ### Heroes of the Storm Automated Replay Spectator
