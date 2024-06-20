@@ -10,7 +10,7 @@ I'm a Software Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexi
 - 🎮 **Hobbies**: Gaming, Programming, and watching Podcast shows
 - 📚 **Interests**: Star Wars, Sci-fi, Computers, Nature
 - 💻 **Programming**: C#, Python, Go
-- 🔧 **Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop
+- 🔧 **Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop, Dagger
 - 📃 **Tech Radar**: https://gist.github.com/pjmagee/9c814176f603c4660f9046e5a22fa71e
 
 ## Featured Work
