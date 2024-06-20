@@ -23,7 +23,7 @@ My efforts were highlighted in an article by HPCC Systems:
 
 Additionally, I have made contributions to other projects:
 
-- [Dagger .NET SDK](https://github.com/wingyplus/dagger-dotnet-sdk/)
+- [Dagger](https://github.com/dagger/dagger/commits?author=pjmagee) & [Dagger .NET SDK](https://github.com/wingyplus/dagger-dotnet-sdk/)
 - [NBuilder - Added NextString Feature and Code Cleanup](https://github.com/nbuilder/nbuilder/commits?author=pjmagee)
 - [Heroes Profile .StormReplay Uploader](https://github.com/Heroes-Profile/HeroesProfile.Uploader/commits?author=pjmagee)
 - [Microsoft Ajax - TypeScript NPM Module](https://www.npmjs.com/package/@types/microsoft-ajax)
