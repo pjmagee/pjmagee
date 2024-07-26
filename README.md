@@ -29,6 +29,7 @@ Additionally, I have made contributions to other projects:
 - [SWTOR Caster - A tool used by content creators in the MMORPG Community for Star Wars: The Old Republic MMO](https://github.com/pjmagee/SWTOR.Caster)
 - [Squidex - Headless CMS](https://github.com/Squidex/squidex/commits?author=pjmagee)
 - [Finding and Reporting how to fix a Critical Vulnerability in EAs SWTOR Launcher.. The reward? $10 Tshirt 💀](https://github.com/pjmagee/pjmagee.github.io/blob/main/input/img/Thanks%20EA.jpeg)
+- [Microsoft Kiota - OpenAPI Code Generator](https://github.com/microsoft/kiota-serialization-json-python/commits?author=pjmagee)
 
 ## Game Helpers
 
