@@ -7,7 +7,7 @@ I'm an Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.c
 - 🌍 **Location**: London, UK
 - 🐱 **Pet**: Bengal cat
 - 🎮 **Hobbies**: Gaming, Programming
-- 📚 **Interests**: Star Wars, Sci-fi, Computers, Nature, Pod Casts
+- 📚 **Interests**: Star Wars, Sci-fi, Computers, Nature, Podcasts
 - 💻 **Programming**: C#, Python, Go
 - 🔧 **Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop, Dagger
 - 📃 **Tech Radar**: [Gist List](https://gist.github.com/pjmagee/9c814176f603c4660f9046e5a22fa71e)
