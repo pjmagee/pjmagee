@@ -1,4 +1,4 @@
-# Hello, I'm Patrick👋
+# Hello, welcome to my profile👋
 
 I'm an Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) working in Data Services for our [I.C.I.S](https://www.icis.com/) brand covering the commodities and chemicals industry. With a passion for technology and a background in software development, I thrive in creating innovative solutions and leading teams towards success.
 
