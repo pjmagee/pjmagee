@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm an **Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/)**, working on Data Services for our [I.C.I.S.](https://www.icis.com/) brand.
+I'm an **Engineering Lead at [LexisNexis](https://risk.lexisnexis.com/)**, working on Data Services for our [I.C.I.S.](https://www.icis.com/) brand.
 
 ---
 
