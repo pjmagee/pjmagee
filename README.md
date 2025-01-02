@@ -1,64 +1,115 @@
-# Hello, welcome to my profile👋
+## Hi there! 👋
 
-I'm an Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) working in Data Services for our [I.C.I.S](https://www.icis.com/) brand covering the commodities and chemicals industry. With a passion for technology and a background in software development, I thrive in creating innovative solutions and leading teams towards success.
-
-## About Me
-
-- 🌍 **Location**: London, UK
-- 🐱 **Pet**: Bengal cat
-- 🎮 **Hobbies**: Gaming, Programming
-- 📚 **Interests**: Star Wars, Sci-fi, Computers, Nature, Podcasts
-- 💻 **Programming**: C#, Python, Go
-- 🔧 **Tools**: Jetbrains IDEs, DevToys, VSCode, 1Password, Windows Terminal, Loop, Dagger
-- 📃 **Tech Radar**: [Gist List](https://gist.github.com/pjmagee/9c814176f603c4660f9046e5a22fa71e)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pjmagee/pjmagee/refs/heads/main/commander-2024.svg" alt="Dagger Commander 2024" width="250" />
-</div>
-
-
-## Featured Work
-
-I am proud to have contributed to the development of the [HPCC Systems](https://github.com/hpcc-systems) ECL Syntax in Visual Studio Code with Syntax tokenizer, hotkey extensions and snippets. [HPCC](https://risk.lexisnexis.com/our-technology/hpcc-systems) is a LexisNexis Risk®️ technology used in LexisNexis Data Centers for High Performance Computing Clusters. 
-
-My efforts were highlighted in an article by HPCC Systems:
-
-- 📄 [ECL Extension for VS Code: New Features Available Now](https://hpccsystems.com/resources/ecl-extension-for-vs-code-new-features-available-now/)
-
-Additionally, I have made contributions to other projects:
-
-- [Dagger](https://github.com/dagger/dagger/commits?author=pjmagee) & [Dagger .NET SDK](https://github.com/wingyplus/dagger-dotnet-sdk/)
-- [NBuilder - Added NextString Feature and Code Cleanup](https://github.com/nbuilder/nbuilder/commits?author=pjmagee)
-- [Heroes Profile .StormReplay Uploader](https://github.com/Heroes-Profile/HeroesProfile.Uploader/commits?author=pjmagee)
-- [Microsoft Ajax - TypeScript NPM Module](https://www.npmjs.com/package/@types/microsoft-ajax)
-- [SWTOR Caster - A tool used by content creators in the MMORPG Community for Star Wars: The Old Republic MMO](https://github.com/pjmagee/SWTOR.Caster)
-- [Squidex - Headless CMS](https://github.com/Squidex/squidex/commits?author=pjmagee)
-- [Finding and Reporting how to fix a Critical Vulnerability in EAs SWTOR Launcher](https://github.com/pjmagee/pjmagee.github.io/blob/main/input/img/Thanks%20EA.jpeg) ... The reward? $10 Tshirt 💀  
-- [Microsoft Kiota - OpenAPI Code Generator](https://github.com/microsoft/kiota-serialization-json-python/commits?author=pjmagee)
-
-## Game Helpers
-
-- [Dota2 Timer Tracker - Avalonia UI/.NET](https://github.com/pjmagee/dota2-helper)
-- [SWTOR Caster - Content creator tool for SWTOR MMORPG](https://github.com/pjmagee/SWTOR.Caster)
-- [Heroes of the Storm - Hero category relationships](https://pjmagee.github.io/heroes-of-the-storm-hero-relationships/)
-
-### Heroes of the Storm Automated Replay Spectator
-
-I developed an automated replay spectator project for Heroes of the Storm, which streamed on Twitch 24/7 with Twitch Chat integration. This project utilized several technologies to ensure seamless operation and interaction:
-
-- **AWS S3** for storing and retrieving replay files
-- **Twitch API** for integrating chat functionalities and stream control
-- **Heroes Profile API** for fetching game statistics and player data
-- **Native Windows OCR** for coordinating hero selection during streams
-
-Code can be found at [Heroes Replay](https://github.com/HeroesReplay)
-
-This project was streamed on the SaltySadism Twitch channel, providing an interactive and continuous viewing experience for the community.
-
-## Connect with Me
-
-Feel free to check out my repositories and connect with me for collaborations or just to say hi!
+I'm an **Engineering Lead at [LexisNexis Risk Solutions](https://risk.lexisnexis.com/)**, working on Data Services for our [I.C.I.S.](https://www.icis.com/) brand.
 
 ---
 
-“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+### Tech Stack
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/pjmagee/pjmagee/refs/heads/main/commander-2024.svg" alt="Dagger Commander 2024" width="150" />
+</div>
+
+---
+
+### Tech Radar
+
+Check out my tech radar for a curated list of tools and technologies I'm exploring:
+
+[📡 Tech Radar 2025](RADAR.md)
+
+---
+
+### Featured Work
+
+- **HPCC Systems & Visual Studio Code**  
+  Contributed to the [HPCC Systems](https://github.com/hpcc-systems) ECL extension in VSCode (syntax tokenizer, hotkeys, snippets) used in [LexisNexis Data Centers](https://risk.lexisnexis.com/our-technology/hpcc-systems).  
+  *Article highlight*: [ECL Extension for VS Code: New Features](https://hpccsystems.com/resources/ecl-extension-for-vs-code-new-features-available-now/)
+
+- **Other Contributions**  
+  - [Dagger](https://github.com/dagger/dagger/commits?author=pjmagee)
+  - [NBuilder](https://github.com/nbuilder/nbuilder/commits?author=pjmagee)  
+  - [Heroes Profile Uploader](https://github.com/Heroes-Profile/HeroesProfile.Uploader/commits?author=pjmagee)  
+  - [Microsoft Ajax TS](https://www.npmjs.com/package/@types/microsoft-ajax)  
+  - [SWTOR Caster](https://github.com/pjmagee/SWTOR.Caster) – MMO content creation tool  
+  - [Squidex – Headless CMS](https://github.com/Squidex/squidex/commits?author=pjmagee)  
+  - [Microsoft Kiota](https://github.com/microsoft/kiota-serialization-json-python/commits?author=pjmagee)  
+  - *Security Fix at EA SWTOR Launcher* (reward: a \$10 t-shirt!)
+
+---
+
+### Game Helpers
+- [**Dota2 Timer Tracker**](https://github.com/pjmagee/dota2-helper) – Built with Avalonia UI/.NET  
+- [**SWTOR Caster**](https://github.com/pjmagee/SWTOR.Caster) – Tool for content creators  
+- [**Heroes of the Storm Hero Relationships**](https://pjmagee.github.io/heroes-of-the-storm-hero-relationships/)
+
+#### Automated Replay Spectator (Heroes of the Storm)
+Developed a 24/7 Twitch streaming spectator bot using:
+- **AWS S3** – Storing/retrieving replay files  
+- **Twitch API** – Chat interaction and stream control  
+- **Heroes Profile API** – Game/player data  
+- **Windows OCR** – Automated hero selection
+
+Code available at [Heroes Replay](https://github.com/HeroesReplay).
+
+---
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pjmagee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=pjmagee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pjmagee/count.svg?"  />
+</div>
