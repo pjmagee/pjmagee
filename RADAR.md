@@ -2,9 +2,23 @@
 A curated list of technologies, tools, and frameworks leaning towards .NET but **not** exclusive to it.
 
 
-## **Machine Learning**
+## **Machine Learning / AI**
 - [ML.NET](https://dotnetfoundation.org/projects/mlnet)  
 - [LMStudio](https://lmstudio.ai/)
+- [Khoj.ai](https://github.com/khoj-ai/khoj)
+- [Swarms](https://github.com/kyegomez/swarms)
+- [Storm](https://github.com/stanford-oval/storm)
+- [Hoarder | Content Tagging](https://github.com/hoarder-app/hoarder)
+- [ChatRTX | RAG](https://github.com/NVIDIA/ChatRTX)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+- [ebook to audio book](https://github.com/DrewThomasson/ebook2audiobook)
+- [DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
+- [DeekSeek AI](https://github.com/deepseek-ai/DeepSeek-V3)
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [Albert | Jailbreaking](https://github.com/TheRook/Albert)
+- [BotSharp | Multi Agent C#](https://github.com/SciSharp/BotSharp)
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [OpenAI.NET](https://github.com/microsoft/OpenAPI.NET)
 
 ## **IaC / GitOps / Orchestration / DevOps**
 - [Terraform](https://github.com/hashicorp/terraform)  
