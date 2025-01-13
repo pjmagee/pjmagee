@@ -19,6 +19,8 @@ A curated list of technologies, tools, and frameworks leaning towards .NET but *
 - [BotSharp | Multi Agent C#](https://github.com/SciSharp/BotSharp)
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [OpenAI.NET](https://github.com/microsoft/OpenAPI.NET)
+- [NotebookLM](https://notebooklm.google.com/)
+- [AI Agents](https://you.com/)
 
 ## **IaC / GitOps / Orchestration / DevOps**
 - [Terraform](https://github.com/hashicorp/terraform)  
