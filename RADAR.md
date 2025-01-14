@@ -3,6 +3,8 @@ A curated list of technologies, tools, and frameworks leaning towards .NET but *
 
 
 ## **Machine Learning / AI**
+
+- [Autogen - A microsoft Agentic AI Framework](https://github.com/microsoft/autogen)
 - [ML.NET](https://dotnetfoundation.org/projects/mlnet)  
 - [LMStudio](https://lmstudio.ai/)
 - [Khoj.ai](https://github.com/khoj-ai/khoj)
@@ -21,6 +23,13 @@ A curated list of technologies, tools, and frameworks leaning towards .NET but *
 - [OpenAI.NET](https://github.com/microsoft/OpenAPI.NET)
 - [NotebookLM - Google](https://notebooklm.google.com/)
 - [You.com | AI Agents](https://you.com/)
+- [Tabby | AI Coding Assistant](https://github.com/TabbyML/tabby)
+- [Riona AI Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
+- [Agentic](https://github.com/transitive-bullshit/agentic)
+- [CrewAI autonomous role-playing AI Agents](https://github.com/crewAIInc/crewAI)
+- [Diffy - AI workflow, RAG pipeline, agent capabilities...](https://github.com/langgenius/dify)
+- [Langflow](https://github.com/langflow-ai/langflow)
+- [Anything LLM - all-in-one Desktop Docker AI built-in RAG, AI agents, and more](https://github.com/Mintplex-Labs/anything-llm)
 
 ## **IaC / GitOps / Orchestration / DevOps**
 - [Terraform](https://github.com/hashicorp/terraform)  
